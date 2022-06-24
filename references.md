@@ -1,7 +1,6 @@
 # GitHub Teacher
 OK
 
-### Jobs
 
 #### GitHub Trainer
 

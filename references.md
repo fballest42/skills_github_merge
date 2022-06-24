@@ -1,5 +1,4 @@
 # GitHub Teacher
-### Skills
 
 #### Education
 

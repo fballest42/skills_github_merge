@@ -1,5 +1,2 @@
 # GitHub Teacher
 OK
-
-
-

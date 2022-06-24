@@ -1,7 +1,6 @@
 # GitHub Teacher
 OK
 
-Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
 ### Jobs
 
 #### GitHub Trainer
